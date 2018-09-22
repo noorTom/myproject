@@ -1,0 +1,26 @@
+[33mcommit f7fdd1e598a4255e766764659c315a2bc3d65431[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: noorTomok <noor.tomok@gmail.com>
+Date:   Thu Sep 20 16:19:09 2018 +0400
+
+    new commit
+
+ style.css | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit 90ef6ab521236fb53f48a23b1e0006b39d984218[m
+Author: noorTomok <noor.tomok@gmail.com>
+Date:   Thu Sep 20 15:47:07 2018 +0400
+
+    this is my first commit
+
+ style.css | 21 [32m+++++++++++++++++++++[m
+ 1 file changed, 21 insertions(+)
+
+[33mcommit 6f12cb8a76baac0153b109bd9bd5cf29d41aafff[m
+Author: noorTomok <noor.tomok@gmail.com>
+Date:   Thu Sep 20 15:43:42 2018 +0400
+
+    This is my first commit
+
+ index.html | 19 [32m+++++++++++++++++++[m
+ 1 file changed, 19 insertions(+)
